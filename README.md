@@ -64,6 +64,19 @@ This Extension is developed by th using Fast.<br>A circular number puzzle compon
 
 <br>
 
+![Screenshot_2025-03-26-23-47-45-499_appinventor.ai_Techhamara91.lock_puzzle.jpg](https://github.com/user-attachments/assets/020abdfc-24fe-44c0-8c23-8f3cf711a4ee)
+
+
+![Screenshot_2025-03-26-23-46-14-983_appinventor.ai_Techhamara91.lock_puzzle.jpg](https://github.com/user-attachments/assets/cb533982-61e7-411d-a488-f24220e314ec)
+
+![e6351e28-30da-458a-9dda-0b8382bdb97b.gif](https://github.com/user-attachments/assets/a18c3785-150f-4b67-910d-63b4f45cddac)
+
+
+![15bb4b79-37cb-4728-a76d-c482786658c3.gif](https://github.com/user-attachments/assets/4accd212-ed24-42a0-bf13-a57e3810160b)
+
+
+<br>
+
 ## <kbd>Events:</kbd>
 **LockPuzzle** has total 3 events.
 
